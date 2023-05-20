@@ -4,7 +4,7 @@
   </a>
   <br />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=CO2O2&color=00FFFF" alt="CO2O2" />
+  <img src="https://komarev.com/ghpvc/?username=CO2O2&color=FECC4D" alt="CO2O2" />
   <br />
   <br />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
